@@ -45,8 +45,8 @@ To generate placeholder text with random length
 |:--                  |:--                              |:--                                |:--  |
 |placeholder_color    |color_resource                   |R.color.tint_placeholder (#87939A) |set the placeholder color|
 |placeholder_length   |text_short/text_medium/text_long |text_medium                        |set how long placeholder text will generated|
-|placeholder_round    |dimension                        |0dp                                |set if you want to get the rounded placeholder|
-|placeholder_text     |string                           |empty                              |set if you want use spesific string mask without randoming length|
+|placeholder_round    |dimension                        |0dp                                |set if you want get the rounded placeholder|
+|placeholder_text     |string_array                     |none                               |set if you want use your own spesific random-string|
 
 ### 2. PlaceholderListView (for list generating placeholder)
 To generate placeholder as a list
