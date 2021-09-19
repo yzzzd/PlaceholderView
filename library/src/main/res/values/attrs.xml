@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlaceholderTextView">
+        <attr name="placeholder_length" format="flags">
+            <flag name="text_short" value="0"/>
+            <flag name="text_medium" value="1"/>
+            <flag name="text_long" value="2"/>
+        </attr>
+        <attr name="placeholder_round" format="dimension" />
+        <attr name="placeholder_color" format="color" />
+        <attr name="placeholder_text" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="PlaceholderListView">
+        <attr name="list_item" format="reference"/>
+        <attr name="android:orientation" format="flags">
+            <flag name="horizontal" value="0"/>
+            <flag name="vertical" value="1"/>
+        </attr>
+        <attr name="with_animation" format="boolean"/>
+    </declare-styleable>
+</resources>

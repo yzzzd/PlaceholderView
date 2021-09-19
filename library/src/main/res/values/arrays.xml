@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="short_phrase">
+        <item>lorem</item>
+        <item>deserunt</item>
+        <item>reprehenderit</item>
+    </string-array>
+
+    <string-array name="medium_phrase">
+        <item>sed do eiusmod tempor</item>
+        <item>ut enim ad minim veniam aute</item>
+        <item>consectetur adipiscing elit, sed do</item>
+    </string-array>
+
+    <string-array name="long_phrase">
+        <item>ut enim ad minim veniam, quis nostrud exercitation ullamco</item>
+        <item>aboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate</item>
+        <item>velit esse cillum dolore eu fugiat nulla pariatur. excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</item>
+    </string-array>
+</resources>
